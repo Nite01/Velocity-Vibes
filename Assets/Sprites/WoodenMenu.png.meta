@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 2f747007332e80e4484960b972ce3170
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoodenMenu_2
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2921
+        width: 844
+        height: 958
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749359f050c1e346b0d4cef54b947f7
+      internalID: -1065039752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2974
+        width: 897
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3fe34b6c24ab8499de410ed6f962c0
+      internalID: -994108410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_5
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2915
+        width: 863
+        height: 829
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09c82b73f6d824aab5289babf9f05e
+      internalID: -1596428950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_9
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2790
+        width: 943
+        height: 937
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6033550adbbdb41af4611b051f0692
+      internalID: -1091804867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_11
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2901
+        width: 1113
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4eb3bd61279de46bff0c306de0d367
+      internalID: 1911487024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_18
+      rect:
+        serializedVersion: 2
+        x: 5045
+        y: 2886
+        width: 492
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f15a14149c934ab7cfc919c1bdd80
+      internalID: -743127407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_33
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2061
+        width: 1113
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e7e6b742ed9bc4cb612fb8ab970ad3
+      internalID: -1221373697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2050
+        width: 1210
+        height: 785
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16424e6a93b1cb44c87224429c076f5b
+      internalID: 1192468193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_50
+      rect:
+        serializedVersion: 2
+        x: 5058
+        y: 2061
+        width: 464
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883badf54e65184499ef40ecca15b95
+      internalID: -1147449256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_55
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 306
+        width: 2575
+        height: 1881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621abbc2e4b71014dae2f765ab4cac61
+      internalID: 1950930963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_63
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1195
+        width: 1205
+        height: 783
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd72981e01e054eafa5ba0d9f36fdd
+      internalID: 834207463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_67
+      rect:
+        serializedVersion: 2
+        x: 4938
+        y: 1179
+        width: 624
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11e45ed60410e44a8302b217949df5
+      internalID: 460678461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_70
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 426
+        width: 651
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7333bc35f7149e45af4143baf09e3f0
+      internalID: -1822220651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_90
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 342
+        width: 1249
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a21f4fcdfc5e45833de4e04995c37
+      internalID: 295905520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenMenu_94
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 426
+        width: 633
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f42991d2d7db741aff9dd0c217e8c9
+      internalID: -1298820087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7008215019a1e804b8236297e7a164e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WoodenMenu_0: 114635218
+      WoodenMenu_1: -534511888
+      WoodenMenu_10: 212660591
+      WoodenMenu_100: -918728764
+      WoodenMenu_101: -1986742145
+      WoodenMenu_102: 1301873418
+      WoodenMenu_103: 1882795554
+      WoodenMenu_104: -1506603714
+      WoodenMenu_105: 1167900324
+      WoodenMenu_106: -1061181515
+      WoodenMenu_107: -1106390673
+      WoodenMenu_108: -512213094
+      WoodenMenu_109: 1034156457
+      WoodenMenu_11: 1911487024
+      WoodenMenu_110: 651738849
+      WoodenMenu_111: 1534331336
+      WoodenMenu_112: -1556264163
+      WoodenMenu_113: 1246788384
+      WoodenMenu_114: -1548911674
+      WoodenMenu_115: -1616079100
+      WoodenMenu_116: -107957419
+      WoodenMenu_117: 2067372043
+      WoodenMenu_118: 1463713790
+      WoodenMenu_119: -1299234324
+      WoodenMenu_12: 1671240615
+      WoodenMenu_120: -1182613369
+      WoodenMenu_121: 29164474
+      WoodenMenu_122: 401994201
+      WoodenMenu_13: -1031000222
+      WoodenMenu_14: -768823450
+      WoodenMenu_15: 1748128013
+      WoodenMenu_16: 900810652
+      WoodenMenu_17: -1112474809
+      WoodenMenu_18: -743127407
+      WoodenMenu_19: -35543681
+      WoodenMenu_2: -1065039752
+      WoodenMenu_20: 1731344267
+      WoodenMenu_21: -16340669
+      WoodenMenu_22: -40662545
+      WoodenMenu_23: -1782752166
+      WoodenMenu_24: 1347203125
+      WoodenMenu_25: -791349564
+      WoodenMenu_26: 1571292626
+      WoodenMenu_27: -75562618
+      WoodenMenu_28: -1345520842
+      WoodenMenu_29: 49883249
+      WoodenMenu_3: -994108410
+      WoodenMenu_30: -1983530801
+      WoodenMenu_31: -1182535978
+      WoodenMenu_32: 76191259
+      WoodenMenu_33: -1221373697
+      WoodenMenu_34: 1192468193
+      WoodenMenu_35: 687781106
+      WoodenMenu_36: -1393339693
+      WoodenMenu_37: -802002095
+      WoodenMenu_38: 987559190
+      WoodenMenu_39: -1099479530
+      WoodenMenu_4: 1602855934
+      WoodenMenu_40: 671294769
+      WoodenMenu_41: -521119263
+      WoodenMenu_42: -1958805466
+      WoodenMenu_43: -1970355556
+      WoodenMenu_44: -1266285295
+      WoodenMenu_45: -193761137
+      WoodenMenu_46: 818663267
+      WoodenMenu_47: 2143707820
+      WoodenMenu_48: -1196214938
+      WoodenMenu_49: -345252220
+      WoodenMenu_5: -1596428950
+      WoodenMenu_50: -1147449256
+      WoodenMenu_51: -1509111536
+      WoodenMenu_52: -170447226
+      WoodenMenu_53: 1715953771
+      WoodenMenu_54: 1026096190
+      WoodenMenu_55: 1950930963
+      WoodenMenu_56: 815871184
+      WoodenMenu_57: -884741447
+      WoodenMenu_58: -817026746
+      WoodenMenu_59: -728325738
+      WoodenMenu_6: 32781223
+      WoodenMenu_60: 558017185
+      WoodenMenu_61: 338444733
+      WoodenMenu_62: 589818444
+      WoodenMenu_63: 834207463
+      WoodenMenu_64: -1459038643
+      WoodenMenu_65: 413173679
+      WoodenMenu_66: 1238529507
+      WoodenMenu_67: 460678461
+      WoodenMenu_68: -1099536641
+      WoodenMenu_69: -1047909368
+      WoodenMenu_7: 232622365
+      WoodenMenu_70: -1822220651
+      WoodenMenu_71: 1263114737
+      WoodenMenu_72: -1024686361
+      WoodenMenu_73: -1532986189
+      WoodenMenu_74: 296983664
+      WoodenMenu_75: 284131183
+      WoodenMenu_76: 1000763253
+      WoodenMenu_77: -960849484
+      WoodenMenu_78: 1053140747
+      WoodenMenu_79: 683849055
+      WoodenMenu_8: 1231266490
+      WoodenMenu_80: 1946292830
+      WoodenMenu_81: 875052529
+      WoodenMenu_82: 967701572
+      WoodenMenu_83: -568789829
+      WoodenMenu_84: -1895807541
+      WoodenMenu_85: -814442246
+      WoodenMenu_86: 1703211347
+      WoodenMenu_87: 863514004
+      WoodenMenu_88: -1032590089
+      WoodenMenu_89: -104049382
+      WoodenMenu_9: -1091804867
+      WoodenMenu_90: 295905520
+      WoodenMenu_91: -246065418
+      WoodenMenu_92: -759731876
+      WoodenMenu_93: -1348909844
+      WoodenMenu_94: -1298820087
+      WoodenMenu_95: 1452909267
+      WoodenMenu_96: -1948704110
+      WoodenMenu_97: 1479331006
+      WoodenMenu_98: -166058765
+      WoodenMenu_99: 1406537918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
